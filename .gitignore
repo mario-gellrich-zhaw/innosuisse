@@ -1,0 +1,28 @@
+# Neo4j db and other large data sets
+career_counseling_chatbot/neo4j_db/
+career_counseling_chatbot/data/processed/chroma_db/
+
+# Ignore data files
+/data/
+/data/**
+*.db
+*.db.*
+*.sqlite3
+*.bin
+*.jar
+*.rpm
+
+# Python typical ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+.envrc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode / SageMaker files
+.vscode/
