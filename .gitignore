@@ -1,4 +1,4 @@
-# Neo4j db and other large data sets
+# Ignore Neo4j db and chroma db
 career_counseling_chatbot/neo4j_db/
 career_counseling_chatbot/data/processed/chroma_db/
 
